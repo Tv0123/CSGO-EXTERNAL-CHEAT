@@ -1,6 +1,11 @@
 ﻿# 🛰 About
 External Cheat by Tv0123. Shout out to Cazz, his tutorials helped a bunch!
 
+## 🗿 Disclaimer
+I am not responsible for anything that happens when you use this software,
+dont cheat on your main even though this is UD. Also **Do not redestribute
+this cheat as your own or change people for it!**
+
 ## 🌌 Setup
 - downlaod Latest Version from Releases
 - dissable all Anti Virus'
@@ -13,7 +18,16 @@ External Cheat by Tv0123. Shout out to Cazz, his tutorials helped a bunch!
 - rebuild the cheat
 - run
  
-## 🗿 Disclaimer
-I am not responsible for anything that happens when you use this software,
-dont cheat on your main even though this is UD. Also **Do not redestribute
-this cheat as your own or change people for it!**
+ ## 📸 Preview
+ 
+ **AIM SETTINGS**
+ ![image](https://user-images.githubusercontent.com/90538451/166931063-2201b2fc-897b-4024-b4e0-9b3d24c78b49.png)
+ **VISUAL SETTINGS**
+![image](https://user-images.githubusercontent.com/90538451/166931133-958240bc-0547-4d09-aed3-c64183848962.png)
+**MISC SETTINGS**
+![image](https://user-images.githubusercontent.com/90538451/166931226-1f2a2098-3813-417a-b777-b838eaea4d10.png)
+**SKIN CHANGER SETTINGS**
+![image](https://user-images.githubusercontent.com/90538451/166931279-0fe9a479-1f3c-4b26-87eb-220d78c50064.png)
+
+ 
+ 
