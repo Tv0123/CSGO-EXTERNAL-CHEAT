@@ -1,15 +1,19 @@
 ﻿# 🛰 About
-A very clean external, borderless ImGui project written as a YouTube tutorial.
-
-## 🌠 Video
-Make an ImGui cheat menu tutorial [video](https://www.youtube.com/watch?v=Nrta_J_c9Cc) here
+External Cheat by Tv0123. Shout out to Cazz, his tutorials helped a bunch!
 
 ## 🌌 Setup
-- Clone the repo
-- Customize menu to your liking
-- Build in Release | x86
-- Find your binary in the `Release` folder
-- Enjoy
+- downlaod Latest Version from Releases
+- dissable all Anti Virus'
+- run
 
+## 🎉 Update
+- Download all files
+- Use hazedumper to dump new offsets
+- change the offsets in globabls.h
+- rebuild the cheat
+- run
+ 
 ## 🗿 Disclaimer
-I am not responsible for anything that happens when you use this software. Cheers.
+I am not responsible for anything that happens when you use this software,
+dont cheat on your main even though this is UD. Also **Do not redestribute
+this cheat as your own or change people for it!**
