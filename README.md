@@ -1,22 +1,15 @@
-# CSGO-EXTERNAL-CHEAT
-A free UD external cheat I made in c++. Shout out to Cazz, his videos are awesome and helped me to learn how to dot this stuff.
+﻿# 🛰 About
+A very clean external, borderless ImGui project written as a YouTube tutorial.
 
-**How to use cheat**
+## 🌠 Video
+Make an ImGui cheat menu tutorial [video](https://www.youtube.com/watch?v=Nrta_J_c9Cc) here
 
-**1.** Download from releases<br>
-**2.** Open CSGO<br>
-**3.** Now run the exe AFTER you open csgo<br>
-**4.** Enjoy!<br>
+## 🌌 Setup
+- Clone the repo
+- Customize menu to your liking
+- Build in Release | x86
+- Find your binary in the `Release` folder
+- Enjoy
 
-_note: I'll try my best to keep it updated but incase its not use
-haze dumper and update it yourself!_<br>
-
-**How to Build / update the cheat yourself**<br>
-
-**1.** Download project file<br>
-**2.** Update offsets using HazeDumper<br>
-**3.** Rebuild<br>
-**4.** Shit on some noobs<br>
-
-
-_Made by Tv0123, DO NOT SELL OR REDESTRIBUTE AS YOUR OWN!!!!!_
+## 🗿 Disclaimer
+I am not responsible for anything that happens when you use this software. Cheers.
