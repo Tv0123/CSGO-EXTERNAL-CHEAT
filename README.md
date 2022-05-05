@@ -18,6 +18,10 @@ this cheat as your own or change people for it!**
 - rebuild the cheat
 - run
  
+ ## 🔑 Keybinds
+ 
+ - Aimbot = Hold bottom side mouse button
+ 
  ## 📸 Preview
  
  **AIM SETTINGS**<br>
