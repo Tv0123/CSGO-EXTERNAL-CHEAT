@@ -1,5 +1,5 @@
 ﻿# 🛰 About
-External Cheat by Tv0123. Shout out to Cazz, his tutorials helped a bunch!
+External Cheat by Me
 
 ## 🗿 Disclaimer
 I am not responsible for anything that happens when you use this software,
