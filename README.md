@@ -4,7 +4,7 @@ External Cheat by Me
 ## 🗿 Disclaimer
 I am not responsible for anything that happens when you use this software,
 dont cheat on your main even though this is UD. Also **Do not redestribute
-this cheat as your own or change people for it!**
+this cheat as your own or charge people for it!**
 
 ## 🌌 Setup
 - downlaod Latest Version from Releases
